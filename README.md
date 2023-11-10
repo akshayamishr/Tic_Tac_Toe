@@ -11,12 +11,12 @@ Two-Player Mode: Play against a friend in a traditional two-player match.
 
 How to Play
 Clone the Repository:
-git clone https://github.com/akshayamishr/tic-tac-toe.git
-cd tic-tac-toe
+git clone https://github.com/akshayamishr/Tic_Tac_Toe.git
+cd Tic_Tac_Toe
 
 Run the Game:
 If using Python:
-python tic_tac_toe.py
+python Tic_Tac_Toe.py
 If using another environment or platform, follow the specific instructions for running Python scripts.
 
 Game Instructions:
@@ -35,7 +35,7 @@ The AI opponent uses the Minimax algorithm to explore all possible moves and out
 Contributing :
 Contributions are welcome! If you have ideas for improvements, bug fixes, or new features, feel free to open an issue or submit a pull request. Please follow the guidelines in the CONTRIBUTING.md file.
 
-Author
+Author : 
 Akshaya Mishra
 
 If you have any questions or feedback, feel free to reach out. Happy gaming!
