@@ -11,7 +11,7 @@ Two-Player Mode: Play against a friend in a traditional two-player match.
 
 How to Play
 Clone the Repository:
-git clone https://github.com/your-username/tic-tac-toe.git
+git clone https://github.com/akshayamishr/tic-tac-toe.git
 cd tic-tac-toe
 
 Run the Game:
@@ -29,10 +29,10 @@ If you choose to play against the AI, be prepared for a challenge! The AI will m
 Enjoy the Game:
 Have fun playing Tic-Tac-Toe! The game will continue until one player wins, or it's a draw.
 
-AI Algorithm: Minimax
+AI Algorithm: (Minimax)
 The AI opponent uses the Minimax algorithm to explore all possible moves and outcomes, ensuring that it never loses. The algorithm is designed to make the best possible move at each turn, leading to a game that is either won by the AI or ends in a draw.
 
-Contributing
+Contributing :
 Contributions are welcome! If you have ideas for improvements, bug fixes, or new features, feel free to open an issue or submit a pull request. Please follow the guidelines in the CONTRIBUTING.md file.
 
 Author
